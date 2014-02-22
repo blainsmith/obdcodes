@@ -6,6 +6,9 @@
   </head>
   <body>
     <h1>{{ title }}</h1>
-    <p>Coming soon.</p>
+    <h3>Example Requests</h3>
+    <p>ODB I: <a href="/1/13/ford">/1/13/ford</a></p>
+    <p>ODB II (Generic): <a href="/2/P0013">/2/P0013</a></p>
+    <p>ODB II (Manufacturer Specific): <a href="/2/P1300/acura">/2/P1300/acura</a></p>
   </body>
 </html>
